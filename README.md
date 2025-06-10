@@ -33,15 +33,15 @@ A Python backend API for managing and querying football statistics data, includi
 
 - Full CRUD operations for teams, players, seasons, matches, and leagues
 - SQLite database (`database.db`)
-- Modular architecture using FastAPI or Flask
+- Modular architecture using Flask
 - Utility scripts for managing and resetting data
 
 ## Technologies Used
 
-- Python 3.x
-- FastAPI *(or Flask, depending on your setup)*
+- Python 3
+- Flas
 - SQLite
-- SQLAlchemy *(or another ORM if used)*
+- SQLAlchemy
 
 ## Getting Started
 
@@ -64,7 +64,7 @@ pip install -r Requirements.txt
 
 4. **Run the application**:
 ```bash
-python App.py
+python3 App.py
 ```
 
 ## API Endpoints
