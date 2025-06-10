@@ -47,7 +47,7 @@ A Python backend API for managing and querying football statistics data, includi
 
 1. **Clone the repository**:
 ```bash
-git clone https://gitlab.com/claudio-rodrigues1/football-data-api.git
+git clone https://github.com/claudiooandre/football-data-api.git
 cd football-data-api
 ```
 
