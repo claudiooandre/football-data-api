@@ -39,7 +39,7 @@ A Python backend API for managing and querying football statistics data, includi
 ## Technologies Used
 
 - Python 3
-- Flas
+- Flask
 - SQLite
 - SQLAlchemy
 
@@ -51,15 +51,14 @@ git clone https://github.com/claudiooandre/football-data-api.git
 cd football-data-api
 ```
 
-2. **Create and activate a virtual environment** (optional but recommended):
+2. **Create and activate a virtual environment**:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate
 ```
 
 3. **Install dependencies**:
 ```bash
-pip install -r Requirements.txt
+pip3 install -r Requirements.txt
 ```
 
 4. **Run the application**:
